@@ -1,4 +1,4 @@
-//?: опциональный
+//?: опциональный (необязательный)
 //Типизация функций
 function slice (str:string, start:number, end?:number):string{
     let newStr = '';
