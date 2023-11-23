@@ -1,1 +1,1 @@
-I'm learning typescript
+I learn typescript every day
