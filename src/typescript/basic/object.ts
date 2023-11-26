@@ -18,4 +18,4 @@ const car :Car ={
 car['go'] = true
 
 car.brand;
- 
+
